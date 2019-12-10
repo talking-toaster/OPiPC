@@ -2,7 +2,7 @@
 一个用C编写的适用OrangePi Pc的GPIO操作的Python模块
 
 #### 适用于：
-OrangePi Pc
+OrangePi Pc  
 OrangePi Pc Plus(未验证)
 
 #### install
